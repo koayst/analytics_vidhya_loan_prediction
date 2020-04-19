@@ -1,2 +1,2 @@
-# analytics_vidhya_loan_prediction
-Analytics Vidhya Practice Problem: Loan Prediction III
+# Loan Prediction
+This is an attempt to analytics vidhya practice problem: Loan Prediction III
